@@ -1,0 +1,2 @@
+# gamess-docs
+GAMESS Documentation
